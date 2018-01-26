@@ -10,7 +10,7 @@ The following game currently uses online art and does not include the animations
 
 Download it for [Mac](Exports/mac.app), [Linux](Exports/linux.x86), or [Windows](Exports/windwos.exe)
 
-If you encounter problems (I only tested for mac right now), feel free to check out the [Exports]() Folder to see if you are missing the _data file.
+If you encounter problems (I only tested for mac right now), feel free to check out the [Exports](https://github.com/ronakdev/InspireMiniGame/tree/master/Exports) Folder to see if you are missing the _data file.
 ### Gameplay
 
 ![Image of Gameplay](images/gameplay.png)
