@@ -1,6 +1,6 @@
 # Inspire Mini Game
 
-*A Proof of Concept Micogame for the Arcade Cabinet* *
+*A Proof of Concept Micogame for the Arcade Cabinet*
 
 ### Disclaimer
 
